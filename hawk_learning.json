@@ -1,0 +1,192 @@
+{
+  "time_slots": {
+    "10:15": {
+      "wins": 2,
+      "losses": 1,
+      "total_pnl": 8.650000000000006
+    },
+    "10:30": {
+      "wins": 0,
+      "losses": 1,
+      "total_pnl": -11.450000000000003
+    },
+    "11:15": {
+      "wins": 0,
+      "losses": 1,
+      "total_pnl": -6.0
+    },
+    "11:30": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 7.550000000000011
+    },
+    "12:00": {
+      "wins": 0,
+      "losses": 1,
+      "total_pnl": -5.200000000000003
+    },
+    "09:45": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 11.349999999999994
+    },
+    "10:00": {
+      "wins": 0,
+      "losses": 2,
+      "total_pnl": -17.75
+    },
+    "11:00": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 3.75
+    },
+    "12:15": {
+      "wins": 0,
+      "losses": 1,
+      "total_pnl": -0.9000000000000057
+    },
+    "13:45": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 3.9499999999999886
+    },
+    "14:00": {
+      "wins": 1,
+      "losses": 1,
+      "total_pnl": 1.950000000000017
+    },
+    "14:30": {
+      "wins": 0,
+      "losses": 1,
+      "total_pnl": -5.200000000000017
+    },
+    "15:00": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 10.650000000000006
+    }
+  },
+  "total_trades": 17,
+  "signal_accuracy": {
+    "VWAP": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 7,
+      "total": 17
+    },
+    "RSI": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 3,
+      "total": 17
+    },
+    "MOMENTUM": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 7,
+      "total": 17
+    },
+    "OPT_OI": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 1,
+      "total": 17
+    },
+    "PREM_VEL": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "VWAP_RETEST": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "MAX_PAIN": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 2,
+      "total": 17
+    },
+    "STRUCTURE": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 5,
+      "total": 17
+    },
+    "MACD_HIST": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 4,
+      "total": 17
+    },
+    "SUPERTREND": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 8,
+      "total": 17
+    },
+    "BB_SQUEEZE": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 4,
+      "total": 17
+    },
+    "ADX": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 8,
+      "total": 17
+    },
+    "BREAKOUT15": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 6,
+      "total": 17
+    },
+    "ORB": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 8,
+      "total": 17
+    },
+    "MKT_OI": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "COI_PCR": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "PCP": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 1,
+      "total": 17
+    },
+    "AVWAP": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "STRADDLE_GAMMA": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 0,
+      "total": 17
+    },
+    "FUT_VEL": {
+      "wins": 8,
+      "losses": 9,
+      "correct": 6,
+      "total": 17
+    }
+  }
+}
